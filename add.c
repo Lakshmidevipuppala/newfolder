@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void add(int a,int b)
+void sub(int a,int b)
 {
-	printf("addtion:%d\n",a+b);
+	printf("subtraction:%d\n",a-b);
 }
